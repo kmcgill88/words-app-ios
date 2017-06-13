@@ -1,5 +1,5 @@
 # words-app-ios
-A small Swift 3 demonstration using a simple words node backend. Used in combination with [words-app-node](https://github.com/kmcgill88/words-app)
+A small Swift 3 demonstration using a simple words node backend. Used in combination with [words-app-node](https://github.com/kmcgill88/words-app-node)
 
 ## Topics Covered
 - [x] Initializing a CocoaPods project
