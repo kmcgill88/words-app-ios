@@ -1,0 +1,27 @@
+PODS:
+  - Alamofire (4.4.0)
+  - KMKeys (0.2.1)
+  - McPicker (0.2.0)
+  - Nimble (7.0.0)
+  - PKHUD (4.2.2)
+  - Quick (1.1.0)
+
+DEPENDENCIES:
+  - Alamofire
+  - KMKeys
+  - McPicker
+  - Nimble
+  - PKHUD (~> 4.0)
+  - Quick
+
+SPEC CHECKSUMS:
+  Alamofire: dc44b1600b800eb63da6a19039a0083d62a6a62d
+  KMKeys: 4c87b4797d15835688b34f3634c4be82a92b4574
+  McPicker: 9bf279acafe605a4540210bd2043a8bdde6c01a5
+  Nimble: 874982b605d4d752fcac6be695d13c502de84b1b
+  PKHUD: 9a3599e04d57676ec14746c40e423a52fb6588c0
+  Quick: dafc587e21eed9f4cab3249b9f9015b0b7a7f71d
+
+PODFILE CHECKSUM: 1d22b57b4aa5f19e6e8ebb8812bd333a707121c8
+
+COCOAPODS: 1.2.1
